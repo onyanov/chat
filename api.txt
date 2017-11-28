@@ -1,0 +1,23 @@
+Rooms
+-add
+-remove
+-list
+-card
+--join (Users2room)
+--leave  (Users2room)
+--members  (Users2room)
+
+Users
+-add
+-list
+-card
+-edit
+-delete
+
+Messages
+-add
+-edit
+-delete
+-list
+
+Messages2users (in Room->list)
